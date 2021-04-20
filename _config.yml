@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title:  Welcome, <3 Willkommen!
 
 # Your name to show in the footer
-author: Some Person
+author: Kelly Reeve
 
 # --- List of links in the navigation bar --- #
 
@@ -39,17 +39,17 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "kelly.reeve@uzh.ch"
+  #facebook: deanattali
+  #github: daattali
+#  twitter: daattali
+  #patreon: DeanAttali
+  #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: user:7227759/ke.re
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
@@ -60,8 +60,8 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  ORCID: https://orcid.org/0000-0001-9325-6467
+  google-scholar: https://scholar.google.co.uk/citations?user=ZUn6mdcAAAAJ&hl=en
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
