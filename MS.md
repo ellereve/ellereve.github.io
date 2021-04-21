@@ -1,0 +1,5 @@
+### Ongoing research
+
+With the support of the Clinical Research Priority Program's PrecisionMS https://www.precisionms.uzh.ch/en.html, I am involved with research in the area of Multiple Sclerosis. I contribute to study design and analysis in clinician-led projects, as well as initiate my own research. 
+
+Stay tuned for information on my prediction modeling projects.
