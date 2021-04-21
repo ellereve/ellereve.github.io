@@ -6,6 +6,7 @@ title: Current Projects
 
 ### Cochrane Prognostic Model Review
 
-https://doi.org/10.1002/14651858.CD013606
+<a href="https://doi.org/10.1002/14651858.CD013606">
+  <img src="/assets/img/CochraneRev.png" alt="link to protocol"
+</a>
 
-"/assets/img/CochraneRev.png"
