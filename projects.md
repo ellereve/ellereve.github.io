@@ -8,4 +8,4 @@ title: Current Projects
 
 https://doi.org/10.1002/14651858.CD013606
 
-"/assets/img/CochraneRev.jpeg"
+"/assets/img/CochraneRev.png"
