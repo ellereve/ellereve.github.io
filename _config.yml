@@ -15,6 +15,7 @@ author: Kelly Reeve
 
 navbar-links:
   About Me: "aboutme"
+  Current Work: "projects"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
