@@ -13,10 +13,19 @@ title: Current Projects
 
 ### Other Open Projects
 
-<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241897">
-  <img src="/assets/img/Plos.png" alt="link to protocol" width="250" height="125">
+<div class="row">
+  <div class="column">
+    <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241897">
+  <img src="/assets/img/Plos.png" alt="link to protocol" width="200" height="100">
 </a>
+  </div>
+  <div class="column">
+    <a href="MS.md">
+  <img src="/assets/img/EDSS.png" alt="link to protocol" width="200" height="100">
+</a>
+  </div>
+</div>
 
-<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241897">
-  <img src="/assets/img/EDSS.png" alt="link to protocol" width="250" height="125">
-</a>
+
+
+
