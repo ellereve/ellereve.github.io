@@ -7,7 +7,7 @@ My name is Kelly Reeve.
 
 ### My story
 
-I am currently a biostatistician with multiple affiliations: scientific staff at the <a href=https://www.zhaw.ch/en/engineering/institutes-centres/idp">Institute of Data Analysis and Process Design at ZHAW</a> working on clinical prediction modeling and a senior biostatistician at <a href="[https://www.ebpi.uzh.ch/en.html](https://www.nexus.ethz.ch/)">ETHZ's NEXUS</a> where I consult on clinical research design and analysis.
+I am currently a biostatistician with multiple affiliations: scientific staff at the <a href="https://www.zhaw.ch/en/engineering/institutes-centres/idp">Institute of Data Analysis and Process Design at ZHAW</a> working on clinical prediction modeling and a senior biostatistician at <a href="https://www.nexus.ethz.ch/">ETHZ's NEXUS</a> where I consult on clinical research design and analysis.
   
 #### Previously
   
