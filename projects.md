@@ -6,7 +6,7 @@ title: Current Projects
 
 ### Cochrane Prognostic Model Review
 
-I would love to tell you that this behemoth of a project has been successfully published by the Cochrane organization, but sadly that is not the case. If you believe in reproducible research, I highly suggest you steer clear of this organization. The workflows are counterproductive and beaureaucracy trumps science.
+I would love to tell you that this behemoth of a project has been successfully published by the Cochrane organization, but sadly that is not the case. Cochrane is experiencing some major growing pains.
 
 <a href="https://doi.org/10.1002/14651858.CD013606">
   <img src="/assets/img/CochraneRev.png" alt="link to protocol" width="500" height="250">
